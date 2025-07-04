@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>dale click ahi a ver si jala</h1>
-    <a href="perdoname.html">Ir a la otra página</a>
+    <a href="Perdoname.html">Ir a la otra página</a>
 </body>
 </html>
