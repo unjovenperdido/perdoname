@@ -59,8 +59,10 @@
 
     <h1>Dale clic y mira</h1>
     <h1>Perdóname…</h1>
+    <h1>AQUI TE DEJO ESTA ESTA BIBLIA DISCULA</h1>
 
     <div class="carta">
+        <P>Es tonto pero ya no importa</p>
         <p>No sé muy bien cómo empezar esto porque sé que ya he hecho demasiadas cosas tontas, inmaduras e innecesarias, y sinceramente no me enorgullece ninguna.</p>
 
         <p>Fui un completo idiota al incomodarte, al insistir, al enviarte mensajes que no venían al caso, y peor aún, al hacerme ideas tontas y actos penosos creyendo que con eso iba a cambiar algo. Reconozco que lo que hice fue simple, infantil y hasta ridículo.</p>
