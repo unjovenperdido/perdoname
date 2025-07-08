@@ -69,6 +69,8 @@
         <p>Te pido disculpas porque jamás quise causarte incomodidad, ni mucho menos cruzar esa línea de lo incómodo, de lo inmaduro, de lo que uno no debería hacer cuando valora a alguien.</p>
 
         <p>Si algún día consideras que podemos volver a hablar como antes, sin rarezas ni incomodidades, me harías muy feliz. Si no, lo entiendo y te agradezco por haber leído esto.</p>
+        
+        <p>Tú mereces cielo, mar y tierra… y yo apenas si puede ofrecerte esta disculpa mal hecha, este intento de remendar mis errores y decirte que ojalá algún día podamos volver a estar como antes.</p>
     </div>
 
     <a href="perdón por ser un tonto.html">Ir a la otra página</a>
