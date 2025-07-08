@@ -71,7 +71,7 @@
         <p>Si algún día consideras que podemos volver a hablar como antes, sin rarezas ni incomodidades, me harías muy feliz. Si no, lo entiendo y te agradezco por haber leído esto.</p>
     </div>
 
-    <a href="Perdoname.html">Ir a la otra página</a>
+    <a href="perdon por ser un tonto.html">Ir a la otra página</a>
 
 </body>
 </html>
