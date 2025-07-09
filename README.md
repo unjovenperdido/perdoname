@@ -73,7 +73,7 @@
         <p>Tú mereces cielo, mar y tierra… y yo apenas si puede ofrecerte esta disculpa mal hecha, este intento de remendar mis errores y decirte que ojalá algún día podamos volver a estar como antes.</p>
     </div>
 
-    <a href="perdón por ser un tonto.html">Ir a la otra página</a>
+    <a href="Perdoname.html">Ir a la otra página</a>
 
 </body>
 </html>
